@@ -61,6 +61,3 @@ Interactive dashboard integration
 - Author
 Gayathri Polepalli
 
-
-
-If you want, I can also make a **shorter README**, **internship submission version**, or **resume aligned version**.
